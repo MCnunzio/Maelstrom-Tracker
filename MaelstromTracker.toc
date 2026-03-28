@@ -1,0 +1,9 @@
+## Interface: 120001
+## Title: MaelstromTracker
+## Notes: Enhancement Shaman Maelstrom Weapon tracker
+## Author: You
+## Version: 1.0
+## SavedVariables: MaelstromTrackerDB
+
+MaelstromTracker.lua
+Options.lua
